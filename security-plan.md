@@ -1,1 +1,1 @@
-
+# Secure Cloud Architecture Plan
