@@ -66,7 +66,7 @@ Customer
 ## Application security
 Customer
 
-## Database access rules
+## Database access rules 
 Customer
 
 ## Backups
