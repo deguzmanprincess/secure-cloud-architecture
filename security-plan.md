@@ -5,7 +5,7 @@ Base on what i understand about cdn or Content Delivery Network it is use to dis
 
 ## Load Balancer
 the load balancer its distribute the incoming traffic from the multiple server, it helps to improve the performance especially when the traffic is higher or too many it is more like redundancy because it supports availability when one server fails.
-
+ 
 ## Application Server
 the application servers it is a process of requests from the users that where in these servers should be placed in a private subnet.
 
